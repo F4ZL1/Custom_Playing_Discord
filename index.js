@@ -4,7 +4,7 @@ client.on('ready', () => {
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity : {
-details : "Bergabunglah Di Komunitas Kami",
+details : "Description",
 assets : {
 large_image : "image",
 large_text : "Your Status" // THIS WILL SHOW AS "Playing <Status>" from the outisde

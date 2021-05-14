@@ -13,4 +13,4 @@ buttons : [{label : "#INDOGHOST ROLEPLAY" , url : "https://discord.gg/CasW8qyEeu
 }
 })
 })
-client.login({ clientId : "842783861569093654" }).catch(console.error);
+client.login({ clientId : "APPLICATIONID" }).catch(console.error);
